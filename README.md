@@ -37,6 +37,7 @@ Hospital Management System using MySQL, Php and Bootstrap
 7. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
+(Remember to unzip the zipped folders in TCPDF and vendors)
     
 ### SOFTWARES USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
